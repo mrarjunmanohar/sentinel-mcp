@@ -15,7 +15,5 @@ The short version:
 4. Optional: create a Claude Desktop scheduled task with that same prompt to
    get the briefing every Monday while the app is open.
 
-The old flows this guide covered — Google Cloud OAuth Gmail drafts, Resend
-email delivery, `--gmail-draft` / `--dry-run` flags — were removed in the
-July 2026 MCP refactor. Claude drafts the email through your own Gmail or
-Outlook connector instead; Sentinel just produces the report and digest.
+If you'd like to share the report with your team then, Claude drafts the email through your own Gmail or
+Outlook connector; Sentinel just produces the report and digest. Ensure, your email app is connected to Claude. 
