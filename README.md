@@ -1,6 +1,6 @@
 # Sentinel — Shopify Intelligence for Claude Desktop
 
-> **Pilot preview** — private repository, shared by invitation for evaluation in your own business. All rights reserved; please don't redistribute. Feedback goes straight into the roadmap.
+> **Pilot preview** — private repository, shared by invitation. Licensed under the [Elastic License 2.0](LICENSE): free to use and modify for your own store; not to be offered to third parties as a hosted or managed service. Feedback goes straight into the roadmap.
 
 Sentinel is a self-contained insight and analytics intelligence layer for
 Shopify, packaged as a **local MCP server** for Claude Desktop. It keeps a
@@ -98,6 +98,21 @@ Plus three prompts (slash-command workflows): **Weekly Briefing**,
   Claude for Work plan).
 - The MCP server makes network calls only to your own store's Shopify Admin
   API. No telemetry, no third-party services.
+
+## License
+
+Sentinel is source-available under the [Elastic License 2.0](LICENSE)
+(licensor: Arjun Manohar, JAAX Labs). In plain terms:
+
+- **Merchants & developers** — free to use, copy, modify, and self-host
+  Sentinel for your own store(s). No strings.
+- **Not allowed** — offering Sentinel to third parties as a hosted or managed
+  service, or circumventing license-key functionality.
+- **Agencies** — running Sentinel on behalf of your clients' stores requires a
+  commercial license. Contact team@jaaxlabs.com.
+
+Contributions are accepted under the same license, with Arjun Manohar,
+JAAX Labs as licensor.
 
 ## Developer CLI
 
