@@ -1,0 +1,10 @@
+{
+  "mystore": {
+    "shop": "mystore.myshopify.com",
+    "store_name": "My Store",
+    "currency": "USD",
+    "store_description": "sells handmade lifestyle accessories",
+    "email_recipients": ["owner@example.com"],
+    "alert_sensitivity": "MED"
+  }
+}
