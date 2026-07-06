@@ -16,4 +16,4 @@ The short version:
    get the briefing every Monday while the app is open.
 
 If you'd like to share the report with your team then, Claude drafts the email through your own Gmail or
-Outlook connector; Sentinel just produces the report and digest. Ensure, your email app is connected to Claude. 
+Outlook connector; Sentinel just produces the report and digest. Ensure, your email app is connected to Claude.
